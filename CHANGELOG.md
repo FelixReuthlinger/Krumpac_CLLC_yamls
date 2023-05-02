@@ -1,0 +1,1 @@
+* 1.0.0 -> first version, for Krumpac Core 1.7.3 and Datys Professions 1.1.1

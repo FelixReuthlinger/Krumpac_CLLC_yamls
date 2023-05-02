@@ -1,0 +1,28 @@
+﻿groups:
+  Misc_Krumpac_Sacrificing_Altars:
+  - Krump_Mat_Key_Loki
+  Material_Krumpac_Tribe_Ornaments:
+  - Krump_Mat_Offering_BloodBowl_Meadows
+  - Krump_Mat_Offering_BloodBowl_BlackForest
+  - Krump_Mat_Offering_BloodBowl_Swamps
+  - Krump_Mat_Offering_BloodBowl_Ocean
+  - Krump_Mat_Offering_BloodBowl_Ashlands
+  - Krump_Mat_Offering_BloodBowl_Mistlands
+  - Krump_Mat_Offering_BloodBowl_DeepNorth
+  - Krump_Mat_Offering_BloodBowl_Mountains
+  - Krump_Mat_Offering_BloodBowl_Plains
+  - Krump_Mat_Tribe_Raven
+  - Krump_Mat_Altar_Seed_Ashlands
+  - Krump_Mat_Altar_Seed_BlackForest
+  - Krump_Mat_Altar_Seed_DeepNorth
+  - Krump_Mat_Altar_Seed_Meadows
+  - Krump_Mat_Altar_Seed_Mistlands
+  - Krump_Mat_Altar_Seed_Mountains
+  - Krump_Mat_Altar_Seed_Ocean
+  - Krump_Mat_Altar_Seed_Plains
+  - Krump_Mat_Altar_Seed_Swamps
+  Utility_Krumpac_Tribe_Ornaments:
+  - Krump_Belt_Totem_Baldur
+  Tool_Krumpac_Tribe_Ornaments:
+  - Krump_Wep_Ancient_Roots
+  - Krump_Wep_Carving_Knife
